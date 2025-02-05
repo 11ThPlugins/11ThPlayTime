@@ -16,3 +16,4 @@ Fair Playtime Tracking: AFK time is counted for session and total playtime but n
 Exit AFK Mode by Moving: Simply move to return to active play mode.
 With 11ThPlayTime, server owners can easily track player activity, maintain a fair reward system, and enhance the overall gameplay experience. 🚀
 
+![image](https://github.com/user-attachments/assets/045584ac-ec50-4788-b394-fccbd6d674f9)
