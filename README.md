@@ -21,3 +21,4 @@ With 11ThPlayTime, server owners can easily track player activity, maintain a fa
 ![image](https://github.com/user-attachments/assets/74c3dd92-db6e-4f58-ae12-481213de9231)
 ![image](https://github.com/user-attachments/assets/3af6dfe9-273d-45ed-803f-e333d9601e51)
 ![image](https://github.com/user-attachments/assets/bbec9c3f-e4e9-4d44-b3c2-86b956765380)
+![image](https://github.com/user-attachments/assets/934f5012-460a-4c78-9313-b04dc49ae23b)
